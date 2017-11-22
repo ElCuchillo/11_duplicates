@@ -15,16 +15,12 @@ $ python3 duplicates.py <path to folder>
 Output example as following:
 
 ```
-************************************************************
- Duplicates of files as following 
- (filename, filesize, path to file):
-************************************************************
-SG200440.jpg [385.70kB]
-/home/ElCuchillo/Рабочий стол/SG200440.jpg
-............................................................
-SG200440.jpg [385.70kB]
-/home/ElCuchillo/Рабочий стол/викинги/SG200440.jpg
-............................................................
+Duplicates of files:
+
+<301894_900__900x597.jpg, 62.20kB>
+ - /home/ElCuchillo/Рабочий стол/301894.jpg
+ - /home/ElCuchillo/Рабочий стол/test/301894.jpg
+
 ```
 
 # Project Goals
